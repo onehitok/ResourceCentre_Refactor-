@@ -70,7 +70,7 @@ public class ResourceCentre {
 				// Return item
 				ResourceCentre.setHeader("RETURN");				
 				itemTypeMenu();
-				
+				//okokok
 				int itemType = Helper.readInt("Enter option to select item type > ");
 				if (itemType == 1) {
 					// Return camcorder
